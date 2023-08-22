@@ -17,6 +17,7 @@ h2 {
 body {
   background-image :url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
   font-family: sans-serif;
+  padding: 20px;
 }
 
 .menu {
@@ -39,4 +40,9 @@ body {
 
 .item p {
   display: inline-block;
+}
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color:  brown;
 }
